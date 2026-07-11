@@ -314,7 +314,7 @@ function Footer() {
       <Brand dark />
       <p>Estacionamento inteligente para Lisboa.</p>
       <div>
-        <a href="mailto:ola@vaga.pt">ola@vaga.pt</a>
+        <a href="mailto:ola@getvaga.tech">ola@getvaga.tech</a>
         <a href="#top">voltar ao topo ↑</a>
       </div>
     </footer>
